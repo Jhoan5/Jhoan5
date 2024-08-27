@@ -31,7 +31,7 @@ _I've always had a passion for knowledge and a drive to improve things and help 
 
 _It's fascinating to witness the rapid advancements in technology, which is why I decided to learn programming languages. Currently, I'm a junior web developer seeking job opportunities. However, my goals extend beyond just finding a job; I want to collaborate with others and continuously learn about people and new technologies._
 
-_I've created a [portfolio](https://portafolio-three-black.vercel.app/) to showcase my skills and experience. Additionally, you can explore other projects I've worked on by checking my [repositories](https://github.com/Jhoan5/tab=repositories)._
+_I've created a [portfolio](https://portafolio-three-black.vercel.app/) to showcase my skills and experience. Additionally, you can explore other projects I've worked on by checking my [repositories](https://github.com/Jhoan5?tab=repositories)._
 
 ---
 
