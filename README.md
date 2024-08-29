@@ -17,6 +17,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
 ![Eslint](https://img.shields.io/badge/Eslint-7C7C7C?style=for-the-badge&logo=eslint&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Stylelint](https://img.shields.io/badge/Stylelint-7A33FF?style=for-the-badge&logo=stylelint&logoColor=white)
 
 <table>
 <tr><h3>About me</h3></tr>
